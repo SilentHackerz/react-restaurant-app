@@ -12,3 +12,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.ReactModal__Content {
+  width: 100% !important;
+}
+.slide-pane__header {
+  display: none !important;
+}
+div#backBtn {
+  margin: 5px;
+  text-align: right;
+}
